@@ -5,5 +5,5 @@ dnspython
 hachoir
 Pillow
 aiohttp
-pyt
+pytz
 requests
